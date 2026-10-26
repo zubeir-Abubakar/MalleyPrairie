@@ -261,14 +261,14 @@ function Header() {
             type="button"
             aria-label={mobileOpen ? ui.close : ui.menuLabel}
             aria-expanded={mobileOpen}
+            aria-controls="mobile-navigation"
             onClick={() => setMobileOpen((value) => !value)}
           >
             {mobileOpen ? <X size={22} /> : <Menu size={22} />}
           </button>
         </div>
       </div>
-      {mobileOpen && (
-        <nav className="mobile-nav" aria-label={ui.menuLabel}>
+      <nav className="mobile-nav" id="mobile-navigation" aria-label={ui.menuLabel} hidden={!mobileOpen}>
           <Link to="/" onClick={closeMenus}>{ui.overview}<ArrowRight size={18} /></Link>
           {groups.map((group, index) => {
             const isOpen = mobileGroup === group.title;
@@ -293,8 +293,7 @@ function Header() {
             );
           })}
           <Link className="mobile-nav__cta" to="/contact" onClick={closeMenus}>{ui.contactCta}<ArrowUpRight size={18} /></Link>
-        </nav>
-      )}
+      </nav>
     </header>
   );
 }
@@ -794,18 +793,18 @@ function ContactPage() {
               <h2>{ui.contactFormTitle}</h2>
               <p className="contact-form__intro">{ui.contactFormSubtitle}</p>
               <div className="form-grid">
-                <label>{ui.fullName} *<input name="name" autoComplete="name" required maxLength={120} /></label>
-                <label>{ui.emailAddress} *<input name="email" type="email" autoComplete="email" required maxLength={254} /></label>
-                <label className="form-field--wide">{ui.phone}<input name="phone" type="tel" autoComplete="tel" maxLength={40} /></label>
-                <label className="form-field--wide">{ui.subject}<input name="_subject" required maxLength={160} placeholder={ui.subjectPlaceholder} /></label>
-                <label className="form-field--wide">{ui.message}<textarea name="message" rows={5} required maxLength={4000} placeholder={ui.messagePlaceholder} /></label>
+                <label><span>{ui.fullName} <span aria-hidden="true">*</span></span><input name="name" autoComplete="name" autoCapitalize="words" required maxLength={120} /></label>
+                <label><span>{ui.emailAddress} <span aria-hidden="true">*</span></span><input name="email" type="email" inputMode="email" autoComplete="email" autoCapitalize="none" required maxLength={254} /></label>
+                <label className="form-field--wide">{ui.phone}<input name="phone" type="tel" inputMode="tel" autoComplete="tel" maxLength={40} /></label>
+                <label className="form-field--wide"><span>{ui.subject} <span aria-hidden="true">*</span></span><input name="_subject" required maxLength={160} placeholder={ui.subjectPlaceholder} /></label>
+                <label className="form-field--wide"><span>{ui.message} <span aria-hidden="true">*</span></span><textarea name="message" rows={5} required maxLength={4000} placeholder={ui.messagePlaceholder} enterKeyHint="send" /></label>
               </div>
               <p className="form-required">{ui.required} · *</p>
               <button className="button form-submit" type="submit" disabled={status === "loading"} aria-busy={status === "loading"}>
                 {status === "loading" ? ui.sending : ui.send}
                 {status === "loading" ? <span className="spinner" aria-hidden="true" /> : <Send size={17} />}
               </button>
-              <p className={`form-status form-status--${status}`} role="status" aria-live="polite">{message}</p>
+              <p className={`form-status form-status--${status}`} role={status === "error" ? "alert" : "status"} aria-live={status === "error" ? "assertive" : "polite"}>{message}</p>
             </form>
           )}
         </div></section>

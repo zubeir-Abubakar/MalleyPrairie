@@ -6,7 +6,7 @@ A responsive, multilingual React website prototype inspired by the MalleyPrairie
 
 ## Features
 
-- Responsive layout with homepage and section-specific hero imagery.
+- Responsive layout with compact mobile navigation and homepage and section-specific hero imagery, checked at 320–430 px.
 - Navigation for centre information, childcare settings, practical information, documents, FAQs, jobs and contact.
 - Four language options: French, English, German and Italian. The selected language is saved in browser storage and retained after reload.
 - Local image assets for the logo, childcare settings and page banners.
