@@ -1,0 +1,411 @@
+{
+  "localeName": "English",
+  "brandDescriptor": "Childcare centre",
+  "switchLabel": "Choose language",
+  "skip": "Skip to main content",
+  "navLabel": "Main navigation",
+  "nav": [
+    "The centre",
+    "Our nurseries",
+    "Practical info"
+  ],
+  "contact": "Contact us",
+  "heroEyebrow": "Childcare centre · Lausanne",
+  "heroTitle": "Grow, discover and thrive together.",
+  "heroLead": "Caring day care for children aged 0 to 6, in the heart of the Malley neighbourhood.",
+  "heroCta": "Explore our nurseries",
+  "heroSecondary": "How to apply",
+  "heroNote": "Private day care subsidised by RéseauL · for families living in Lausanne.",
+  "artCaption": "A little more room to grow, every day.",
+  "facts": [
+    [
+      "0–6",
+      "years · babies to school-age children"
+    ],
+    [
+      "115",
+      "full-time places"
+    ],
+    [
+      "6:30–18:15",
+      "Monday to Friday"
+    ]
+  ],
+  "admission": {
+    "label": "Your next steps",
+    "title": "Start with the central waiting list.",
+    "intro": "Applications go through the City of Lausanne’s Parents’ Information Office (BIP). Your request is added to Lausanne’s central waiting list (LAC), which childcare centres in your neighbourhood can consult.",
+    "asideTitle": "Before you apply",
+    "aside": "The centre is for children who live in the City of Lausanne, with priority for families in southern Lausanne and the Malley neighbourhood.",
+    "asideLink": "Parents’ Information Office",
+    "steps": [
+      [
+        "Submit an application",
+        "Complete the preschool or school-age form and send your application to the BIP."
+      ],
+      [
+        "Your request is shared",
+        "Neighbourhood childcare centres can see your registration on Lausanne’s central waiting list."
+      ],
+      [
+        "The director contacts you",
+        "When a place matching your child’s age, schedule and your family’s needs becomes available, the director will get in touch."
+      ],
+      [
+        "Renew every 6 months",
+        "Update your registration by email, post or in person at the BIP, Place Chauderon 9, Lausanne."
+      ]
+    ],
+    "formLinks": [
+      "Preschool application",
+      "School-age application · 1P–2P"
+    ],
+    "listLink": "Central waiting list"
+  },
+  "care": {
+    "label": "Four places to feel at home",
+    "title": "Care for every stage.",
+    "intro": "115 full-time places across four nurseries in the neighbourhood. Qualified teams care for children with respect for their needs, wellbeing and dignity.",
+    "centers": [
+      {
+        "name": "L’Attique",
+        "age": "2–24 months",
+        "places": "25 places",
+        "detail": "A bright, air-conditioned nursery opening onto two furnished terraces and a large secure garden. The Vallée de la Jeunesse park is nearby.",
+        "groups": [
+          "Barbotteurs · 0–1 year · 10 places",
+          "Piccolinos · 1–2 years · 15 places"
+        ],
+        "address": "Chemin de la Prairie 36, 1007 Lausanne",
+        "phone": "021 620 76 05",
+        "lead": "Carine Baud-Sellie",
+        "email": "cba@malleyprairie.ch",
+        "rules": "attiqueRules"
+      },
+      {
+        "name": "Le Martinet",
+        "age": "Age 2 until starting school",
+        "places": "44 places",
+        "detail": "Renovated ground-floor rooms designed for movement, agility and motor skills. Each group has a covered terrace and direct access to a garden and play area.",
+        "groups": [
+          "Globe-Trotteurs · from age 2 to 3",
+          "L’Oasis · from 2½ until 1P"
+        ],
+        "address": "Globe-Trotteurs · Chemin du Martinet 27, 1007 Lausanne",
+        "phone": "021 620 08 95",
+        "lead": "Cécile Goumaz · Globe-Trotteurs",
+        "email": "Cecile.goumaz@malleyprairie.ch",
+        "secondAddress": "L’Oasis · Chemin du Martinet 25, 1007 Lausanne",
+        "secondPhone": "021 625 76 00",
+        "secondLead": "Cécile Goumaz · Oasis",
+        "rules": "martinetRules"
+      },
+      {
+        "name": "La Mezzanine",
+        "age": "Schoolchildren in 1P and 2P",
+        "places": "36 places",
+        "detail": "Children are accompanied between school and the centre, eat their meals on site and enjoy spaces for play and rest. Schools served: Malley and Provence.",
+        "groups": [
+          "Care around school hours",
+          "Near the Vallée de la Jeunesse park"
+        ],
+        "address": "Chemin de la Prairie 52, 1007 Lausanne",
+        "phone": "021 625 04 20",
+        "lead": "Sandra Richkin",
+        "email": "sri@malleyprairie.ch",
+        "rules": "mezzanineRules"
+      },
+      {
+        "name": "La Prairie",
+        "age": "Ages 0–6 · internal service",
+        "places": "10 places",
+        "detail": "A separate unit provides emergency care for children staying with their mothers at the MalleyPrairie shelter after experiencing domestic or family violence. Referrals are made by the centre’s social workers. Places are reserved exclusively for families staying at the centre.",
+        "groups": [
+          "A safe setting and stable routines",
+          "Care linked to the shelter stay"
+        ],
+        "address": "For enquiries about internal care, contact the director.",
+        "phone": "",
+        "lead": "Valérie P. · deputy director",
+        "email": "garderies@malleyprairie.ch",
+        "goals": [
+          "Welcome children in a safe setting",
+          "Provide stable routines and emotional security",
+          "Rebuild trust in themselves and adults",
+          "Support and value mothers’ parenting skills",
+          "Offer practical educational tools"
+        ],
+        "rules": ""
+      }
+    ],
+    "note": "Director: Ana Lattion. For availability or internships in the public-facing nurseries, please contact the director."
+  },
+  "approach": {
+    "label": "How we care",
+    "title": "Kindness is at the heart of what we do.",
+    "quote": "“Opening the door is not enough; we also need to meet one another and build genuine educational relationships.”",
+    "attribution": "Laurence Rameau, L’accueil en crèche, 2011",
+    "intro": "We support every child’s wellbeing and self-esteem. Nursery life is part of learning to live with others, while helping parents continue their role with confidence.",
+    "values": [
+      "Respect for self and others",
+      "Listening and sharing",
+      "Safety, wellbeing and trust",
+      "Independence, discovery and joy",
+      "Open-mindedness"
+    ],
+    "activityTitle": "Play opens up the world.",
+    "activity": "In a group, children develop social, relational and cognitive skills. Through play they discover, explore, imitate and express their creativity. Structured and free activities respond to each child’s age, tastes and interests; they support physical, emotional and social development, safety and self-esteem.",
+    "movement": "Recognised by the Youp’là bouge movement label, the centre promotes movement and children’s health. Walks and outings by minibus—to the forest, playgrounds, snow, countryside, lakeside, theatre, museums and exhibitions—encourage curiosity."
+  },
+  "practical": {
+    "label": "Everyday essentials",
+    "title": "The details that help you plan.",
+    "intro": "Useful information for families, all in one place.",
+    "hoursTitle": "We welcome children",
+    "hours": "6:30 am — 6:15 pm",
+    "hoursSub": "Monday to Friday · 11 months a year",
+    "items": [
+      [
+        "Applying for a place",
+        "Send all childcare-place enquiries to the director: garderies@malleyprairie.ch."
+      ],
+      [
+        "Attendance",
+        "To help children settle into their group, the minimum attendance is 3 half-days a week. Parents who are not in work may request up to 60% attendance, subject to availability."
+      ],
+      [
+        "Annual closures",
+        "The centre closes for 5 weeks: 3 weeks in summer (the last two weeks of July and the first week of August) and 2 weeks in winter (between Christmas and New Year). See the 2026–2027 calendar for exact dates."
+      ],
+      [
+        "Meals and diets",
+        "Meals balance nutrition, conviviality and the needs of a group setting. Pork-free, meat-free and medically prescribed diets are accepted; the director discusses them with families when the contract is set up. Medical diets require a certificate."
+      ]
+    ],
+    "closuresLink": "2026–2027 closure dates",
+    "menusLink": "See this week’s menus",
+    "shortcuts": [
+      "Fees",
+      "Our team",
+      "Documents",
+      "FAQs"
+    ]
+  },
+  "fees": {
+    "label": "Fees",
+    "title": "Subsidised fees.",
+    "intro": "As a RéseauL partner, the centre applies subsidised fees set by the City’s Early Childhood Service (SPE). An estimate depends on your income and your child’s attendance schedule.",
+    "items": [
+      [
+        "Registration fee",
+        "CHF 50 for the first contract for each child in a household. No fee applies when transferring from another Réseau-L nursery."
+      ],
+      [
+        "Dependent-child deduction",
+        "CHF 100 for each dependent child up to age 18. Income earned by children in apprenticeships is not counted."
+      ],
+      [
+        "Sibling discount",
+        "30% for the first and second child placed; a 50% reduction for the eldest child or children from the third placement onward, when siblings attend a Réseau-L centre during the same month."
+      ],
+      [
+        "La Mezzanine schoolchildren",
+        "A 20% deduction is available for schoolchildren attending La Mezzanine."
+      ],
+      [
+        "Absence and illness allowance",
+        "Announced, excused absences for a full week (5 consecutive working days, illness or holidays outside closure periods) are charged at 10% of the flat fee, for up to 3 weeks per full year of attendance. Any credit is deducted in December or the final month of attendance; unused credit expires on 31 December. It transfers to another Réseau-L nursery if there is no break between contracts."
+      ],
+      [
+        "Closures and holidays",
+        "No fee is charged for the 5 annual closure weeks. Deductions are applied in the relevant months, usually 1 week in January, 2 in July, 1 in August and 1 in December. Exceptional closure days may be announced 2 months in advance."
+      ]
+    ]
+  },
+  "staff": {
+    "label": "Our team",
+    "title": "A team effort, every day.",
+    "intro": "A multidisciplinary team keeps each nursery running, supports the children and works in partnership with families.",
+    "roles": [
+      [
+        "General management",
+        "Ensures the centre operates within the legal framework; oversees educational, financial and administrative matters; plans places and contracts, coordinates continuity of care and recruits qualified staff."
+      ],
+      [
+        "Deputy directors",
+        "One per nursery: manage educational and administrative work on site, support staff and children, coordinate with general management and make time for parent meetings."
+      ],
+      [
+        "General services",
+        "Manage accounts and budgets, calculate occupancy rates and handle staff administration."
+      ],
+      [
+        "Educational teams",
+        "Welcome children in their groups, respond to individual needs within a group setting and work closely with families and external partners."
+      ],
+      [
+        "Training coordinators",
+        "Plan placements around team capacity, work with recognised training schools, recruit trainees and apprentices and support their training."
+      ],
+      [
+        "Administrative team",
+        "Welcome visitors, handle correspondence, answer enquiries and support the director, nurseries, families and partners with administrative tasks."
+      ],
+      [
+        "Housekeeping team",
+        "Clean to hygiene standards, care for premises and equipment, set up meals and work alongside the educational teams."
+      ],
+      [
+        "Cook",
+        "Prepares healthy, balanced meals."
+      ]
+    ]
+  },
+  "documents": {
+    "label": "Useful documents",
+    "title": "Keep these close at hand.",
+    "intro": "Forms and documents shared by the centre and its partners.",
+    "links": [
+      [
+        "Preschool registration",
+        "registrationPreschool"
+      ],
+      [
+        "School-age registration · 1P–2P",
+        "registrationSchool"
+      ],
+      [
+        "Parent guide · L’Attique",
+        "attiqueRules"
+      ],
+      [
+        "Parent guide · Le Martinet",
+        "martinetRules"
+      ],
+      [
+        "Parent guide · La Mezzanine",
+        "mezzanineRules"
+      ],
+      [
+        "Closures · 2026–2027",
+        "closures"
+      ],
+      [
+        "Contract cancellation",
+        "cancellation"
+      ],
+      [
+        "Travel consent · Attique",
+        "attiqueTravel"
+      ],
+      [
+        "Travel consent · Martinet",
+        "martinetTravel"
+      ],
+      [
+        "Travel consent · Mezzanine",
+        "mezzanineTravel"
+      ]
+    ],
+    "delivery": "Give cancellation letters to the director. Give travel consent forms directly to the relevant nursery."
+  },
+  "faq": {
+    "label": "Frequently asked questions",
+    "title": "A few things you may be wondering.",
+    "items": [
+      [
+        "I work near the centre. Can I enrol my child?",
+        "Your place of work does not determine eligibility. The centre only welcomes children whose families live in the City of Lausanne."
+      ],
+      [
+        "I do not live in Lausanne. Can I get a place?",
+        "No. The City of Lausanne subsidises the centre, so places are for families living within the city."
+      ],
+      [
+        "My child has special dietary requirements.",
+        "Children generally share the same menu. Medically prescribed diets (with a doctor’s certificate) and pork-free diets are accepted when compatible with group care. A nutritionally equivalent alternative is offered. For other situations, parents provide any additional food at home. For hygiene and storage reasons, food brought from home is accepted only for birthdays and other celebrations."
+      ],
+      [
+        "My child follows a vegetarian diet.",
+        "A vegetarian diet is not strictly followed at the nursery because it may lead to protein deficiencies. Please discuss your situation with the director."
+      ],
+      [
+        "What should I do if my child is ill?",
+        "A child who is ill or injured cannot attend if they cannot keep up with the centre’s routine, particularly with a temperature above 38°C. After antibiotics, the return period is 24–48 hours, following medical advice. Tell the child’s group promptly and report contagious illnesses. Families should arrange alternative care. The Vaud Red Cross offers in-home care for sick children: 021 340 00 80 / 81."
+      ],
+      [
+        "Will visiting the office get us a place sooner?",
+        "No. The director follows the registration date on the waiting list. A place must also fit your family’s schedule, age group and eligibility criteria, including living in the neighbourhood and working or studying."
+      ]
+    ]
+  },
+  "contactSection": {
+    "label": "Let’s talk",
+    "title": "Have a question? Write to us.",
+    "intro": "For questions about availability, contact the director. Share your contact details and any useful information about your child so we can respond.",
+    "addressLabel": "Director’s office",
+    "address": "Chemin du Martinet 27, ground floor, 1007 Lausanne",
+    "formTitle": "Your message",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "birthDate": "Your child’s date of birth",
+    "day": "Day",
+    "month": "Month",
+    "year": "Year",
+    "level": "Care requested",
+    "levelOptions": [
+      "Preschool",
+      "School-age · 1P–2P",
+      "La Prairie · internal care",
+      "Other / general enquiry"
+    ],
+    "subject": "Subject",
+    "message": "Your message",
+    "submit": "Send message",
+    "requiredNote": "Fields marked * are required. Submitted details are sent to Formspree to be forwarded to the organisation. Please include only information needed to respond.",
+    "sending": "Sending…",
+    "sendSuccess": "Thank you. Your message has been sent to the director, who will reply as soon as possible.",
+    "sendError": "Your message could not be sent. Please try again or email garderies@malleyprairie.ch.",
+    "errorName": "Please enter your first name.",
+    "errorEmail": "Please enter a valid email address.",
+    "months": [
+      "Month",
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  },
+  "jobs": {
+    "label": "Join the team",
+    "title": "Work with us.",
+    "intro": "Vacancies and applications are managed by the MalleyPrairie Foundation.",
+    "roles": [
+      "On-call educational staff",
+      "Facilities and housekeeping manager"
+    ],
+    "link": "See Foundation vacancies"
+  },
+  "footerLine": "Growing together, at every age.",
+  "footerCopyright": "MalleyPrairie Childcare Centre · Lausanne",
+  "footerAddress": "Chemin du Martinet 27, 1007 Lausanne",
+  "footerLinks": [
+    "Support us",
+    "Foundation",
+    "Shelter",
+    "Prevention centre"
+  ],
+  "linkMore": "Learn more",
+  "emailLabel": "Email the director",
+  "closeMenu": "Close menu"
+}

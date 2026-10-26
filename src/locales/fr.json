@@ -1,0 +1,411 @@
+{
+  "localeName": "Français",
+  "brandDescriptor": "Centre de vie enfantine",
+  "switchLabel": "Choisir la langue",
+  "skip": "Accéder au contenu principal",
+  "navLabel": "Navigation principale",
+  "nav": [
+    "Le CVE",
+    "Nos garderies",
+    "Infos pratiques"
+  ],
+  "contact": "Nous contacter",
+  "heroEyebrow": "Centre de vie enfantine · Lausanne",
+  "heroTitle": "Grandir, découvrir et s’épanouir ensemble.",
+  "heroLead": "Un accueil de jour bienveillant pour les enfants de 0 à 6 ans, au cœur du quartier de Malley.",
+  "heroCta": "Découvrir nos garderies",
+  "heroSecondary": "Comment s’inscrire",
+  "heroNote": "Accueil privé subventionné par le RéseauL · réservé aux familles domiciliées à Lausanne.",
+  "artCaption": "De la place pour grandir, chaque jour.",
+  "facts": [
+    [
+      "0–6",
+      "ans · petite enfance et écoliers"
+    ],
+    [
+      "115",
+      "places à plein temps"
+    ],
+    [
+      "6 h 30–18 h 15",
+      "du lundi au vendredi"
+    ]
+  ],
+  "admission": {
+    "label": "Votre parcours",
+    "title": "Une place commence par la liste d’attente.",
+    "intro": "L’admission passe par le Bureau d’information aux parents (BIP) de la Ville de Lausanne. Votre demande rejoint la Liste d’attente centralisée (LAC), consultée par les garderies du quartier.",
+    "asideTitle": "À savoir avant l’inscription",
+    "aside": "Le CVE accueille les enfants domiciliés sur la commune de Lausanne, en priorité les familles de Lausanne sud et du quartier de Malley.",
+    "asideLink": "Informations du BIP",
+    "steps": [
+      [
+        "Déposer votre demande",
+        "Remplissez le formulaire préscolaire ou parascolaire et transmettez votre inscription au BIP."
+      ],
+      [
+        "Votre demande est partagée",
+        "Votre inscription est visible par les garderies du quartier sur la Liste d’attente centralisée de Lausanne."
+      ],
+      [
+        "La direction vous contacte",
+        "Dès qu’une place correspondant à l’âge, aux horaires et aux besoins de votre famille se libère, la direction prend contact."
+      ],
+      [
+        "Actualiser tous les 6 mois",
+        "Réactualisez votre inscription par courriel, par courrier ou à l’accueil du BIP, Place Chauderon 9, Lausanne."
+      ]
+    ],
+    "formLinks": [
+      "Inscription préscolaire",
+      "Inscription parascolaire · 1–2P"
+    ],
+    "listLink": "Liste d’attente centralisée"
+  },
+  "care": {
+    "label": "Nos quatre lieux d’accueil",
+    "title": "Un lieu pour chaque étape.",
+    "intro": "115 places à plein temps réparties dans quatre garderies du quartier. Des équipes qualifiées accompagnent les enfants dans le respect de leurs besoins, de leur bien-être et de leur dignité.",
+    "centers": [
+      {
+        "name": "L’Attique",
+        "age": "2 à 24 mois",
+        "places": "25 places",
+        "detail": "Une nursery lumineuse, climatisée et ouverte sur deux terrasses aménagées et un grand jardin sécurisé. Le parc de la Vallée de la Jeunesse est tout proche.",
+        "groups": [
+          "Barbotteurs · 0–1 an · 10 places",
+          "Piccolinos · 1–2 ans · 15 places"
+        ],
+        "address": "Chemin de la Prairie 36, 1007 Lausanne",
+        "phone": "021 620 76 05",
+        "lead": "Carine Baud-Sellie",
+        "email": "cba@malleyprairie.ch",
+        "rules": "attiqueRules"
+      },
+      {
+        "name": "Le Martinet",
+        "age": "2 ans à l’entrée à l’école",
+        "places": "44 places",
+        "detail": "Des locaux rénovés au rez-de-chaussée, pensés pour le mouvement, l’agilité et la motricité. Chaque secteur a une terrasse abritée et un accès direct au jardin et à son espace de jeux.",
+        "groups": [
+          "Globe-Trotteurs · dès 2 ans jusqu’à 3 ans",
+          "L’Oasis · dès 2 ans et demi jusqu’à la 1P"
+        ],
+        "address": "Globe-Trotteurs · Chemin du Martinet 27, 1007 Lausanne",
+        "phone": "021 620 08 95",
+        "lead": "Cécile Goumaz · Globe-Trotteurs",
+        "email": "Cecile.goumaz@malleyprairie.ch",
+        "secondAddress": "L’Oasis · Chemin du Martinet 25, 1007 Lausanne",
+        "secondPhone": "021 625 76 00",
+        "secondLead": "Cécile Goumaz · Oasis",
+        "rules": "martinetRules"
+      },
+      {
+        "name": "La Mezzanine",
+        "age": "Écoliers en 1P et 2P",
+        "places": "36 places",
+        "detail": "Les enfants sont accompagnés entre l’école et la garderie, prennent leurs repas sur place et profitent d’espaces de jeux et de détente. Écoles desservies : Malley et Provence.",
+        "groups": [
+          "Accueil autour des périodes scolaires",
+          "Parc de la Vallée de la Jeunesse à proximité"
+        ],
+        "address": "Chemin de la Prairie 52, 1007 Lausanne",
+        "phone": "021 625 04 20",
+        "lead": "Sandra Richkin",
+        "email": "sri@malleyprairie.ch",
+        "rules": "mezzanineRules"
+      },
+      {
+        "name": "La Prairie",
+        "age": "0 à 6 ans · accueil interne",
+        "places": "10 places",
+        "detail": "Un secteur séparé accueille en urgence des enfants hébergés avec leur mère au Centre d’accueil MalleyPrairie, sur orientation des intervenant·es sociaux·ales. Les places sont exclusivement réservées aux familles hébergées au Centre.",
+        "groups": [
+          "Cadre sécurisant et repères stables",
+          "Accueil lié à la durée de l’hébergement"
+        ],
+        "address": "Pour les demandes liées à l’accueil interne, contacter la direction.",
+        "phone": "",
+        "lead": "Valérie P. · adjointe de direction",
+        "email": "garderies@malleyprairie.ch",
+        "goals": [
+          "Accueillir dans un cadre sécurisé",
+          "Offrir des repères stables et la sécurité affective",
+          "Renforcer la confiance en soi et en l’adulte",
+          "Accompagner les mères et valoriser leurs compétences parentales",
+          "Proposer des outils éducatifs concrets"
+        ],
+        "rules": ""
+      }
+    ],
+    "note": "Directrice : Madame Ana Lattion. Pour les places disponibles ou les recherches de stage dans les secteurs ouverts au public, contactez la direction."
+  },
+  "approach": {
+    "label": "Notre approche",
+    "title": "La bienveillance au cœur de notre action.",
+    "quote": "« Il ne suffit pas d’ouvrir la porte, il faut aussi pouvoir se rencontrer et savoir établir de véritables relations éducatives. »",
+    "attribution": "Laurence Rameau, L’accueil en crèche, 2011",
+    "intro": "Nous souhaitons soutenir l’épanouissement et l’estime de soi de chaque enfant. La vie en garderie accompagne la socialisation et permet aux parents de poursuivre sereinement leur responsabilité éducative.",
+    "values": [
+      "Respect de l’autre et de soi",
+      "Écoute et partage",
+      "Sécurité, bien-être et confiance",
+      "Autonomie, découverte et plaisir",
+      "Ouverture d’esprit"
+    ],
+    "activityTitle": "Le jeu ouvre le monde.",
+    "activity": "En groupe, l’enfant développe des compétences relationnelles, sociales et cognitives. Par le jeu, il découvre, explore, imite et exprime sa créativité. Les activités, dirigées ou libres, sont adaptées à l’âge, aux goûts et aux intérêts de chacun; elles soutiennent son développement physique, psychique, affectif et social, sa sécurité et son estime de soi.",
+    "movement": "Labellisé Youp’là bouge, le CVE privilégie le mouvement et la santé. Promenades, sorties en bus, forêt, places de jeux, neige, campagne, lac, théâtre, musées et expositions nourrissent la curiosité des enfants."
+  },
+  "practical": {
+    "label": "Bien s’organiser",
+    "title": "Les repères du quotidien.",
+    "intro": "Les informations utiles aux familles, rassemblées en un seul endroit.",
+    "hoursTitle": "Nous accueillons les enfants",
+    "hours": "6 h 30 — 18 h 15",
+    "hoursSub": "Du lundi au vendredi · 11 mois sur 12",
+    "items": [
+      [
+        "Demander une place",
+        "Toutes les demandes de places sont à adresser à la direction : garderies@malleyprairie.ch."
+      ],
+      [
+        "Fréquentation",
+        "Pour faciliter l’intégration dans le groupe, l’accueil minimal est de 3 demi-journées par semaine. Pour les parents sans activité professionnelle, un accueil jusqu’à 60 % au maximum est possible selon les places disponibles."
+      ],
+      [
+        "Fermetures annuelles",
+        "5 semaines de fermeture : 3 semaines en été (les deux dernières de juillet et la première d’août) et 2 semaines en hiver (entre Noël et le Nouvel An). Consultez le calendrier 2026–2027 pour les dates précises."
+      ],
+      [
+        "Repas et régimes",
+        "Les repas privilégient équilibre, convivialité et besoins de la collectivité. Les régimes sans porc, sans viande ou prescrits pour raisons médicales sont acceptés; un entretien avec la direction a lieu lors du contrat. Les demandes médicales nécessitent un certificat."
+      ]
+    ],
+    "closuresLink": "Fermetures 2026–2027",
+    "menusLink": "Voir les menus de la semaine",
+    "shortcuts": [
+      "Tarifs",
+      "Équipe",
+      "Documents",
+      "Questions"
+    ]
+  },
+  "fees": {
+    "label": "Tarifs",
+    "title": "Des tarifs subventionnés.",
+    "intro": "Partenaire du RéseauL, le CVE applique les tarifs subventionnés définis par le Service de la petite enfance (SPE). Le montant estimé dépend des revenus et de l’horaire de fréquentation de votre enfant.",
+    "items": [
+      [
+        "Taxe d’inscription",
+        "Fr. 50.– pour le premier contrat de chaque enfant d’un ménage. Aucune taxe lors d’un transfert depuis une autre garderie du Réseau-L."
+      ],
+      [
+        "Déduction pour enfant à charge",
+        "Fr. 100.– par enfant à charge jusqu’à 18 ans. Les revenus des enfants en apprentissage ne sont pas pris en compte."
+      ],
+      [
+        "Rabais fratrie",
+        "30 % pour le 1er et le 2e enfant placé; 50 % de réduction pour l’aîné ou les aînés dès le 3e enfant placé, lorsque plusieurs enfants sont accueillis le même mois dans une structure du Réseau-L."
+      ],
+      [
+        "Écoliers de la Mezzanine",
+        "Une déduction de 20 % est accordée aux écoliers fréquentant la Mezzanine."
+      ],
+      [
+        "Absences et maladie",
+        "Les absences annoncées et excusées d’une semaine complète (5 jours ouvrables consécutifs, maladie ou vacances hors fermetures) sont facturées à 10 % de la taxe forfaitaire, jusqu’à 3 semaines par année complète. Le solde est déduit en décembre ou au dernier mois de fréquentation; le solde inutilisé échoit au 31 décembre. Il est transféré lors d’un passage à une autre garderie du Réseau-L sans interruption de contrat."
+      ],
+      [
+        "Fermetures et vacances",
+        "Aucune redevance n’est demandée pendant les 5 semaines de fermeture. Les déductions sont appliquées sur les mois concernés : généralement 1 semaine en janvier, 2 en juillet, 1 en août et 1 en décembre. Des fermetures exceptionnelles peuvent être annoncées 2 mois à l’avance."
+      ]
+    ]
+  },
+  "staff": {
+    "label": "L’équipe",
+    "title": "Un travail d’équipe, au quotidien.",
+    "intro": "Une équipe pluridisciplinaire veille au bon fonctionnement des secteurs, à l’accompagnement des enfants et à la collaboration avec les familles.",
+    "roles": [
+      [
+        "Direction générale",
+        "Assure le bon fonctionnement dans le cadre légal; gère les aspects pédagogiques, financiers et administratifs; planifie les places, établit les contrats, coordonne la continuité éducative et engage le personnel qualifié."
+      ],
+      [
+        "Adjoint·es de direction",
+        "Un·e par secteur : assure la gestion pédagogique et administrative sur place, soutient l’équipe et les enfants au quotidien, collabore avec la direction et se rend disponible pour les parents."
+      ],
+      [
+        "Services généraux",
+        "Tiennent les comptes, établissent les budgets, calculent les taux d’occupation et assurent la gestion administrative du personnel."
+      ],
+      [
+        "Équipe éducative",
+        "Accueille les enfants dans leur groupe, répond à leurs besoins en tenant compte de la collectivité et développe une collaboration avec les familles et les intervenant·es extérieur·es."
+      ],
+      [
+        "Responsables de formation",
+        "Planifient les stages selon les disponibilités, collaborent avec les écoles reconnues, engagent les stagiaires et apprenti·es et veillent au bon déroulement de leur formation."
+      ],
+      [
+        "Équipe administrative",
+        "Accueille les visiteurs, réceptionne le courrier, répond aux demandes et assure les tâches administratives en lien avec la direction, les secteurs, les familles et les partenaires."
+      ],
+      [
+        "Personnel de maison",
+        "Nettoie selon les normes d’hygiène, entretient les locaux et le matériel, met en place les repas et collabore avec les équipes éducatives."
+      ],
+      [
+        "Cuisinier·ère",
+        "Confectionne des repas sains et équilibrés."
+      ]
+    ]
+  },
+  "documents": {
+    "label": "Documents utiles",
+    "title": "À garder sous la main.",
+    "intro": "Les formulaires et documents transmis par le CVE et ses partenaires.",
+    "links": [
+      [
+        "Inscription · préscolaire",
+        "registrationPreschool"
+      ],
+      [
+        "Inscription · parascolaire 1–2P",
+        "registrationSchool"
+      ],
+      [
+        "Directives · L’Attique",
+        "attiqueRules"
+      ],
+      [
+        "Directives · Le Martinet",
+        "martinetRules"
+      ],
+      [
+        "Directives · La Mezzanine",
+        "mezzanineRules"
+      ],
+      [
+        "Fermetures · 2026–2027",
+        "closures"
+      ],
+      [
+        "Résiliation de contrat",
+        "cancellation"
+      ],
+      [
+        "Décharge trajet · Attique",
+        "attiqueTravel"
+      ],
+      [
+        "Décharge trajet · Martinet",
+        "martinetTravel"
+      ],
+      [
+        "Décharge trajet · Mezzanine",
+        "mezzanineTravel"
+      ]
+    ],
+    "delivery": "La lettre de résiliation est à remettre à la direction. Les décharges de trajets sont à remettre directement à la garderie concernée."
+  },
+  "faq": {
+    "label": "Questions fréquentes",
+    "title": "Vous vous posez peut-être ces questions.",
+    "items": [
+      [
+        "Je travaille près du CVE, puis-je inscrire mon enfant ?",
+        "Le lieu de travail ne détermine pas l’admission. Le CVE accueille uniquement les enfants domiciliés sur la commune de Lausanne."
+      ],
+      [
+        "Je n’habite pas Lausanne, puis-je obtenir une place ?",
+        "Non. Le CVE est subventionné par la commune de Lausanne et accueille les enfants des familles domiciliées sur le territoire communal."
+      ],
+      [
+        "Mon enfant a un régime alimentaire particulier.",
+        "En règle générale, les enfants partagent le même menu. Les régimes prescrits pour raisons médicales (sur présentation d’un certificat) et les régimes sans porc sont acceptés s’ils sont compatibles avec la vie collective. Un menu de remplacement de valeur diététique équivalente est proposé. Pour les autres situations, les parents assurent le complément alimentaire à la maison. Pour des raisons d’hygiène et de conservation, les aliments apportés sont acceptés uniquement pour les anniversaires et autres fêtes."
+      ],
+      [
+        "Mon enfant suit un régime végétarien.",
+        "Le régime végétarien n’est pas strictement appliqué en garderie, car il peut présenter des carences en protéines. Parlez de votre situation avec la direction."
+      ],
+      [
+        "Que faire si mon enfant est malade ?",
+        "Un enfant malade ou accidenté ne peut pas être accueilli s’il ne peut suivre le rythme de l’institution, notamment en cas de température supérieure à 38 °C. Après la prise d’antibiotiques, le délai est de 24 à 48 heures selon la recommandation médicale. Informez rapidement le groupe et signalez les maladies contagieuses. Les parents prévoient une solution de garde. La Croix-Rouge vaudoise propose un service de garde à domicile pour enfants malades : 021 340 00 80 / 81."
+      ],
+      [
+        "Passer au bureau permet-il d’obtenir une place plus vite ?",
+        "Non. La direction respecte la date d’inscription sur la liste d’attente. La place doit correspondre aux besoins de la famille : horaires, groupe d’âge et critères d’accueil, dont le domicile dans le quartier, l’activité professionnelle ou les études."
+      ]
+    ]
+  },
+  "contactSection": {
+    "label": "Parlons-en",
+    "title": "Une question ? Écrivez-nous.",
+    "intro": "Pour toute demande concernant les places disponibles, contactez la direction. Pour que nous puissions vous répondre, indiquez les coordonnées et les informations utiles sur votre enfant.",
+    "addressLabel": "Adresse de la direction",
+    "address": "Chemin du Martinet 27, rez-de-chaussée, 1007 Lausanne",
+    "formTitle": "Votre message",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "birthDate": "Date de naissance de votre enfant",
+    "day": "Jour",
+    "month": "Mois",
+    "year": "Année",
+    "level": "Niveau souhaité",
+    "levelOptions": [
+      "Préscolaire",
+      "Parascolaire · 1P–2P",
+      "La Prairie · accueil interne",
+      "Autre / question générale"
+    ],
+    "subject": "Objet",
+    "message": "Un message ?",
+    "submit": "Envoyer le message",
+    "requiredNote": "Les champs marqués d’un * sont obligatoires. Les informations envoyées sont transmises à Formspree pour être acheminées à l’organisation. N’indiquez que les renseignements nécessaires.",
+    "sending": "Envoi en cours…",
+    "sendSuccess": "Merci, votre message a bien été transmis. La direction vous répondra dès que possible.",
+    "sendError": "Votre message n’a pas pu être envoyé. Réessayez ou écrivez à garderies@malleyprairie.ch.",
+    "errorName": "Veuillez saisir votre prénom.",
+    "errorEmail": "Veuillez saisir une adresse e-mail valide.",
+    "months": [
+      "Mois",
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Août",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre"
+    ]
+  },
+  "jobs": {
+    "label": "Rejoindre l’équipe",
+    "title": "Travailler avec nous.",
+    "intro": "Les offres et les candidatures sont gérées par la Fondation MalleyPrairie.",
+    "roles": [
+      "Personnel éducatif de remplacement",
+      "Gestionnaire en intendance"
+    ],
+    "link": "Voir les offres de la Fondation"
+  },
+  "footerLine": "Grandir ensemble, à chaque âge.",
+  "footerCopyright": "Centre de vie enfantine MalleyPrairie · Lausanne",
+  "footerAddress": "Chemin du Martinet 27, 1007 Lausanne",
+  "footerLinks": [
+    "Nous soutenir",
+    "La Fondation",
+    "Centre d’accueil",
+    "Prévention de l’Ale"
+  ],
+  "linkMore": "En savoir plus",
+  "emailLabel": "Écrire à la direction",
+  "closeMenu": "Fermer le menu"
+}

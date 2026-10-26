@@ -1,0 +1,411 @@
+{
+  "localeName": "Deutsch",
+  "brandDescriptor": "Kinderbetreuungszentrum",
+  "switchLabel": "Sprache wählen",
+  "skip": "Zum Hauptinhalt springen",
+  "navLabel": "Hauptnavigation",
+  "nav": [
+    "Das Zentrum",
+    "Unsere Kitas",
+    "Praktisches"
+  ],
+  "contact": "Kontakt",
+  "heroEyebrow": "Kinderbetreuungszentrum · Lausanne",
+  "heroTitle": "Gemeinsam wachsen, entdecken und aufblühen.",
+  "heroLead": "Liebevolle Tagesbetreuung für Kinder von 0 bis 6 Jahren, mitten im Quartier Malley.",
+  "heroCta": "Unsere Kitas entdecken",
+  "heroSecondary": "So funktioniert die Anmeldung",
+  "heroNote": "Private, durch RéseauL subventionierte Betreuung · für Familien mit Wohnsitz in Lausanne.",
+  "artCaption": "Jeden Tag ein wenig mehr Raum zum Wachsen.",
+  "facts": [
+    [
+      "0–6",
+      "Jahre · Kleinkinder und Schulkinder"
+    ],
+    [
+      "115",
+      "Vollzeitplätze"
+    ],
+    [
+      "6:30–18:15",
+      "Montag bis Freitag"
+    ]
+  ],
+  "admission": {
+    "label": "Die nächsten Schritte",
+    "title": "Der erste Schritt ist die zentrale Warteliste.",
+    "intro": "Die Anmeldung erfolgt über das Elterninformationsbüro (BIP) der Stadt Lausanne. Ihr Antrag kommt auf die zentrale Warteliste (LAC), die von den Kitas im Quartier eingesehen wird.",
+    "asideTitle": "Gut zu wissen",
+    "aside": "Das Zentrum betreut Kinder mit Wohnsitz in der Stadt Lausanne, vorrangig Familien aus Lausanne-Süd und dem Quartier Malley.",
+    "asideLink": "Informationen des BIP",
+    "steps": [
+      [
+        "Antrag einreichen",
+        "Füllen Sie das Formular für Vorschulkinder oder Schulkinder aus und reichen Sie es beim BIP ein."
+      ],
+      [
+        "Der Antrag wird geteilt",
+        "Die Kitas im Quartier sehen Ihre Anmeldung auf der zentralen Warteliste der Stadt Lausanne."
+      ],
+      [
+        "Die Leitung meldet sich",
+        "Sobald ein Platz frei wird, der Alter, Betreuungszeiten und Bedürfnisse Ihrer Familie berücksichtigt, kontaktiert Sie die Leitung."
+      ],
+      [
+        "Alle 6 Monate aktualisieren",
+        "Aktualisieren Sie Ihre Anmeldung per E-Mail, Post oder am Empfang des BIP, Place Chauderon 9, Lausanne."
+      ]
+    ],
+    "formLinks": [
+      "Anmeldung · Vorschulkinder",
+      "Anmeldung · Schulkinder 1P–2P"
+    ],
+    "listLink": "Zentrale Warteliste"
+  },
+  "care": {
+    "label": "Vier Betreuungsorte",
+    "title": "Für jede Entwicklungsstufe der passende Ort.",
+    "intro": "115 Vollzeitplätze in vier Kitas im Quartier. Qualifizierte Teams begleiten die Kinder und achten auf ihre Bedürfnisse, ihr Wohlbefinden und ihre Würde.",
+    "centers": [
+      {
+        "name": "L’Attique",
+        "age": "2 bis 24 Monate",
+        "places": "25 Plätze",
+        "detail": "Eine helle, klimatisierte Kinderkrippe mit Zugang zu zwei eingerichteten Terrassen und einem grossen, geschützten Garten. Der Park Vallée de la Jeunesse liegt in der Nähe.",
+        "groups": [
+          "Barbotteurs · 0–1 Jahr · 10 Plätze",
+          "Piccolinos · 1–2 Jahre · 15 Plätze"
+        ],
+        "address": "Chemin de la Prairie 36, 1007 Lausanne",
+        "phone": "021 620 76 05",
+        "lead": "Carine Baud-Sellie",
+        "email": "cba@malleyprairie.ch",
+        "rules": "attiqueRules"
+      },
+      {
+        "name": "Le Martinet",
+        "age": "Ab 2 Jahren bis zum Schuleintritt",
+        "places": "44 Plätze",
+        "detail": "Renovierte Räume im Erdgeschoss, die Bewegung, Geschicklichkeit und Motorik fördern. Jeder Bereich verfügt über eine gedeckte Terrasse und direkten Zugang zum Garten und Spielbereich.",
+        "groups": [
+          "Globe-Trotteurs · ab 2 bis 3 Jahre",
+          "L’Oasis · ab 2½ Jahren bis zur 1P"
+        ],
+        "address": "Globe-Trotteurs · Chemin du Martinet 27, 1007 Lausanne",
+        "phone": "021 620 08 95",
+        "lead": "Cécile Goumaz · Globe-Trotteurs",
+        "email": "Cecile.goumaz@malleyprairie.ch",
+        "secondAddress": "L’Oasis · Chemin du Martinet 25, 1007 Lausanne",
+        "secondPhone": "021 625 76 00",
+        "secondLead": "Cécile Goumaz · Oasis",
+        "rules": "martinetRules"
+      },
+      {
+        "name": "La Mezzanine",
+        "age": "Schulkinder der 1P und 2P",
+        "places": "36 Plätze",
+        "detail": "Die Kinder werden zwischen Schule und Kita begleitet, essen vor Ort und nutzen Spiel- und Ruheräume. Zuständige Schulen: Malley und Provence.",
+        "groups": [
+          "Betreuung rund um die Schulzeiten",
+          "In der Nähe des Parks Vallée de la Jeunesse"
+        ],
+        "address": "Chemin de la Prairie 52, 1007 Lausanne",
+        "phone": "021 625 04 20",
+        "lead": "Sandra Richkin",
+        "email": "sri@malleyprairie.ch",
+        "rules": "mezzanineRules"
+      },
+      {
+        "name": "La Prairie",
+        "age": "0 bis 6 Jahre · interne Betreuung",
+        "places": "10 Plätze",
+        "detail": "Ein separater Bereich betreut Kinder in einer Notsituation, die nach häuslicher oder familiärer Gewalt mit ihrer Mutter im MalleyPrairie-Schutzzentrum Schutz gefunden haben. Die Vermittlung erfolgt durch die Sozialarbeitenden. Die Plätze sind ausschliesslich Familien im Zentrum vorbehalten.",
+        "groups": [
+          "Geschützter Rahmen und stabile Orientierung",
+          "Betreuung während des Aufenthalts im Zentrum"
+        ],
+        "address": "Für Fragen zur internen Betreuung wenden Sie sich an die Leitung.",
+        "phone": "",
+        "lead": "Valérie P. · stellvertretende Leitung",
+        "email": "garderies@malleyprairie.ch",
+        "goals": [
+          "Betreuung in einem sicheren Rahmen",
+          "Stabile Orientierung und emotionale Sicherheit geben",
+          "Vertrauen in sich und Erwachsene stärken",
+          "Mütter unterstützen und ihre Erziehungskompetenz fördern",
+          "Konkrete pädagogische Hilfsmittel anbieten"
+        ],
+        "rules": ""
+      }
+    ],
+    "note": "Direktorin: Ana Lattion. Für freie Plätze oder Praktika in den öffentlich zugänglichen Kitas wenden Sie sich bitte an die Leitung."
+  },
+  "approach": {
+    "label": "Unser Ansatz",
+    "title": "Wohlwollen steht im Mittelpunkt.",
+    "quote": "„Es genügt nicht, die Tür zu öffnen. Wir müssen uns begegnen und echte pädagogische Beziehungen aufbauen.“",
+    "attribution": "Laurence Rameau, L’accueil en crèche, 2011",
+    "intro": "Wir fördern das Wohlbefinden und Selbstvertrauen jedes Kindes. Der Kita-Alltag unterstützt das soziale Lernen und gibt Eltern Sicherheit in ihrer Erziehungsaufgabe.",
+    "values": [
+      "Respekt vor sich selbst und anderen",
+      "Zuhören und Teilen",
+      "Sicherheit, Wohlbefinden und Vertrauen",
+      "Selbstständigkeit, Entdecken und Freude",
+      "Offenheit"
+    ],
+    "activityTitle": "Spielen eröffnet neue Welten.",
+    "activity": "In der Gruppe entwickeln Kinder soziale, zwischenmenschliche und kognitive Fähigkeiten. Beim Spielen entdecken, erkunden und ahmen sie nach und bringen ihre Kreativität zum Ausdruck. Geleitete und freie Aktivitäten berücksichtigen Alter, Vorlieben und Interessen und fördern die körperliche, psychische, emotionale und soziale Entwicklung, Sicherheit und Selbstachtung.",
+    "movement": "Das Zentrum trägt das Label Youp’là bouge und fördert Bewegung und Gesundheit. Spaziergänge und Ausflüge mit dem Bus – in den Wald, auf Spielplätze, in den Schnee, aufs Land, an den See, ins Theater, in Museen und Ausstellungen – wecken die Neugier."
+  },
+  "practical": {
+    "label": "Gut organisiert",
+    "title": "Wichtige Informationen für den Alltag.",
+    "intro": "Praktische Hinweise für Familien – alles an einem Ort.",
+    "hoursTitle": "Wir betreuen Kinder",
+    "hours": "6:30 — 18:15 Uhr",
+    "hoursSub": "Montag bis Freitag · 11 Monate im Jahr",
+    "items": [
+      [
+        "Betreuungsplatz anfragen",
+        "Alle Anfragen zu Betreuungsplätzen richten Sie bitte an die Leitung: garderies@malleyprairie.ch."
+      ],
+      [
+        "Betreuungsumfang",
+        "Für eine gute Eingewöhnung beträgt die Mindestbetreuung 3 Halbtage pro Woche. Für Eltern ohne Berufstätigkeit sind je nach Verfügbarkeit höchstens 60 % möglich."
+      ],
+      [
+        "Jährliche Schliesszeiten",
+        "Das Zentrum ist 5 Wochen geschlossen: 3 Wochen im Sommer (die letzten beiden Juliwochen und die erste Augustwoche) sowie 2 Wochen im Winter (zwischen Weihnachten und Neujahr). Die genauen Daten stehen im Kalender 2026–2027."
+      ],
+      [
+        "Mahlzeiten und Ernährung",
+        "Die Mahlzeiten berücksichtigen ausgewogene Ernährung, Gemeinschaft und die Bedingungen einer Betreuung in der Gruppe. Schweinefleischfreie, fleischfreie und medizinisch verordnete Kost ist möglich; beim Vertragsabschluss findet ein Gespräch mit der Leitung statt. Für medizinische Kost ist ein Attest erforderlich."
+      ]
+    ],
+    "closuresLink": "Schliesszeiten 2026–2027",
+    "menusLink": "Wochenmenüs ansehen",
+    "shortcuts": [
+      "Tarife",
+      "Team",
+      "Dokumente",
+      "Fragen"
+    ]
+  },
+  "fees": {
+    "label": "Tarife",
+    "title": "Subventionierte Betreuungstarife.",
+    "intro": "Als Partner von RéseauL wendet das Zentrum die vom Dienst für frühkindliche Betreuung (SPE) festgelegten subventionierten Tarife an. Die Schätzung richtet sich nach Einkommen und Betreuungszeiten.",
+    "items": [
+      [
+        "Anmeldegebühr",
+        "CHF 50 für den ersten Vertrag pro Kind und Haushalt. Bei einem Wechsel aus einer anderen Réseau-L-Kita fällt keine Gebühr an."
+      ],
+      [
+        "Abzug für unterhaltsberechtigte Kinder",
+        "CHF 100 pro unterhaltsberechtigtem Kind bis zum 18. Lebensjahr. Einkommen von Kindern in einer Berufslehre werden nicht berücksichtigt."
+      ],
+      [
+        "Geschwisterrabatt",
+        "30 % für das erste und zweite betreute Kind; ab dem dritten betreuten Kind 50 % für das älteste Kind bzw. die ältesten Kinder, wenn Geschwister im selben Monat eine Réseau-L-Einrichtung besuchen."
+      ],
+      [
+        "Schulkinder in La Mezzanine",
+        "Für Schulkinder in La Mezzanine gilt ein Abzug von 20 %."
+      ],
+      [
+        "Abwesenheit und Krankheit",
+        "Angekündigte und entschuldigte Abwesenheiten während einer ganzen Woche (5 aufeinanderfolgende Arbeitstage, Krankheit oder Ferien ausserhalb der Schliesszeiten) werden mit 10 % der Pauschale berechnet, höchstens für 3 Wochen pro vollem Betreuungsjahr. Ein Guthaben wird im Dezember oder im letzten Betreuungsmonat abgezogen; nicht verwendetes Guthaben verfällt am 31. Dezember. Bei einem nahtlosen Wechsel zu einer anderen Réseau-L-Kita wird es übertragen."
+      ],
+      [
+        "Schliesszeiten und Ferien",
+        "Während der 5 jährlichen Schliesswochen wird kein Beitrag erhoben. Die Abzüge erfolgen in den betroffenen Monaten, in der Regel 1 Woche im Januar, 2 im Juli, 1 im August und 1 im Dezember. Ausserordentliche Schliessungen können 2 Monate im Voraus angekündigt werden."
+      ]
+    ]
+  },
+  "staff": {
+    "label": "Unser Team",
+    "title": "Gemeinsam für die Kinder da.",
+    "intro": "Ein interdisziplinäres Team sorgt für den Betrieb der Kitas, begleitet die Kinder und arbeitet mit den Familien zusammen.",
+    "roles": [
+      [
+        "Gesamtleitung",
+        "Sichert den Betrieb im gesetzlichen Rahmen, verantwortet pädagogische, finanzielle und administrative Aufgaben, plant Plätze und Verträge, koordiniert die Betreuung und stellt qualifiziertes Personal ein."
+      ],
+      [
+        "Stellvertretende Leitungen",
+        "Eine Person pro Bereich: verantwortet die pädagogische und administrative Arbeit vor Ort, unterstützt Team und Kinder, arbeitet mit der Gesamtleitung zusammen und ist für Elterngespräche verfügbar."
+      ],
+      [
+        "Allgemeine Dienste",
+        "Führen die Buchhaltung, erstellen Budgets, berechnen die Auslastung der Kitas und erledigen die Personaladministration."
+      ],
+      [
+        "Pädagogische Teams",
+        "Betreuen Kinder in ihren Gruppen, berücksichtigen individuelle Bedürfnisse im gemeinschaftlichen Alltag und arbeiten mit Familien und externen Fachpersonen zusammen."
+      ],
+      [
+        "Ausbildungsverantwortliche",
+        "Planen Praktika, arbeiten mit anerkannten Schulen zusammen, stellen Praktikant:innen und Lernende ein und begleiten deren Ausbildung."
+      ],
+      [
+        "Verwaltungsteam",
+        "Empfängt Besucher:innen, bearbeitet Post und Anfragen und unterstützt Leitung, Bereiche, Familien und Partner administrativ."
+      ],
+      [
+        "Hauswirtschaftsteam",
+        "Reinigt nach Hygienestandards, pflegt Räume und Material, bereitet Mahlzeiten vor und arbeitet mit den pädagogischen Teams zusammen."
+      ],
+      [
+        "Köchin / Koch",
+        "Bereitet gesunde und ausgewogene Mahlzeiten zu."
+      ]
+    ]
+  },
+  "documents": {
+    "label": "Nützliche Dokumente",
+    "title": "Alles Wichtige griffbereit.",
+    "intro": "Formulare und Unterlagen des Zentrums und seiner Partner.",
+    "links": [
+      [
+        "Anmeldung · Vorschulkinder",
+        "registrationPreschool"
+      ],
+      [
+        "Anmeldung · Schulkinder 1P–2P",
+        "registrationSchool"
+      ],
+      [
+        "Elterninfo · L’Attique",
+        "attiqueRules"
+      ],
+      [
+        "Elterninfo · Le Martinet",
+        "martinetRules"
+      ],
+      [
+        "Elterninfo · La Mezzanine",
+        "mezzanineRules"
+      ],
+      [
+        "Schliesszeiten · 2026–2027",
+        "closures"
+      ],
+      [
+        "Vertragskündigung",
+        "cancellation"
+      ],
+      [
+        "Wegbewilligung · Attique",
+        "attiqueTravel"
+      ],
+      [
+        "Wegbewilligung · Martinet",
+        "martinetTravel"
+      ],
+      [
+        "Wegbewilligung · Mezzanine",
+        "mezzanineTravel"
+      ]
+    ],
+    "delivery": "Kündigungsschreiben sind der Leitung zu übergeben. Wegbewilligungen geben Sie direkt in der betreffenden Kita ab."
+  },
+  "faq": {
+    "label": "Häufige Fragen",
+    "title": "Vielleicht fragen Sie sich ...",
+    "items": [
+      [
+        "Ich arbeite in der Nähe. Kann ich mein Kind anmelden?",
+        "Der Arbeitsort ist kein Zulassungskriterium. Das Zentrum betreut nur Kinder mit Wohnsitz in der Stadt Lausanne."
+      ],
+      [
+        "Ich wohne nicht in Lausanne. Kann ich einen Platz erhalten?",
+        "Nein. Die Stadt Lausanne subventioniert das Zentrum; deshalb sind die Plätze für Familien mit Wohnsitz in der Stadt bestimmt."
+      ],
+      [
+        "Mein Kind braucht eine besondere Ernährung.",
+        "Grundsätzlich essen die Kinder dasselbe Menü. Medizinisch verordnete Kost (mit ärztlichem Attest) und schweinefleischfreie Kost sind möglich, sofern sie mit der Betreuung in der Gruppe vereinbar sind. Es wird eine ernährungsphysiologisch gleichwertige Alternative angeboten. In anderen Fällen ergänzen die Eltern die Ernährung zu Hause. Aus Hygiene- und Aufbewahrungsgründen dürfen mitgebrachte Lebensmittel nur an Geburtstagen und anderen Festen verteilt werden."
+      ],
+      [
+        "Mein Kind ernährt sich vegetarisch.",
+        "Eine vegetarische Ernährung wird in der Kita nicht strikt umgesetzt, da es zu Proteinmangel kommen kann. Besprechen Sie Ihre Situation mit der Leitung."
+      ],
+      [
+        "Was tun, wenn mein Kind krank ist?",
+        "Ein krankes oder verunfalltes Kind kann nicht betreut werden, wenn es dem Alltag nicht folgen kann, insbesondere bei einer Temperatur über 38 °C. Nach Antibiotika gilt je nach ärztlicher Empfehlung eine Frist von 24 bis 48 Stunden. Informieren Sie die Gruppe umgehend und melden Sie ansteckende Krankheiten. Eltern organisieren eine alternative Betreuung. Das Waadtländer Rote Kreuz bietet Betreuung kranker Kinder zu Hause an: 021 340 00 80 / 81."
+      ],
+      [
+        "Erhalte ich schneller einen Platz, wenn ich vorbeikomme?",
+        "Nein. Die Leitung hält sich an das Anmeldedatum auf der Warteliste. Ein freier Platz muss zudem zu den Betreuungszeiten, der Altersgruppe und den Aufnahmekriterien passen, darunter Wohnort im Quartier sowie Berufstätigkeit oder Ausbildung."
+      ]
+    ]
+  },
+  "contactSection": {
+    "label": "Wir sind für Sie da",
+    "title": "Eine Frage? Schreiben Sie uns.",
+    "intro": "Bei Fragen zu freien Plätzen wenden Sie sich an die Leitung. Teilen Sie Ihre Kontaktdaten und wichtige Angaben zu Ihrem Kind mit, damit wir Ihnen antworten können.",
+    "addressLabel": "Adresse der Leitung",
+    "address": "Chemin du Martinet 27, Erdgeschoss, 1007 Lausanne",
+    "formTitle": "Ihre Nachricht",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "birthDate": "Geburtsdatum Ihres Kindes",
+    "day": "Tag",
+    "month": "Monat",
+    "year": "Jahr",
+    "level": "Gewünschte Betreuungsstufe",
+    "levelOptions": [
+      "Vorschulbetreuung",
+      "Schulbetreuung · 1P–2P",
+      "La Prairie · interne Betreuung",
+      "Andere Frage"
+    ],
+    "subject": "Betreff",
+    "message": "Ihre Nachricht",
+    "submit": "Nachricht senden",
+    "requiredNote": "Mit * gekennzeichnete Felder sind Pflichtfelder. Die Angaben werden über Formspree an die Organisation weitergeleitet. Bitte geben Sie nur für die Antwort notwendige Informationen an.",
+    "sending": "Wird gesendet…",
+    "sendSuccess": "Vielen Dank. Ihre Nachricht wurde an die Leitung übermittelt, die Ihnen so bald wie möglich antwortet.",
+    "sendError": "Ihre Nachricht konnte nicht gesendet werden. Versuchen Sie es erneut oder schreiben Sie an garderies@malleyprairie.ch.",
+    "errorName": "Bitte geben Sie Ihren Vornamen ein.",
+    "errorEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "months": [
+      "Monat",
+      "Januar",
+      "Februar",
+      "März",
+      "April",
+      "Mai",
+      "Juni",
+      "Juli",
+      "August",
+      "September",
+      "Oktober",
+      "November",
+      "Dezember"
+    ]
+  },
+  "jobs": {
+    "label": "Teil des Teams werden",
+    "title": "Arbeiten Sie mit uns.",
+    "intro": "Stellenangebote und Bewerbungen werden von der Fondation MalleyPrairie verwaltet.",
+    "roles": [
+      "Pädagogisches Personal im Springerpool",
+      "Mitarbeiter:in Hauswirtschaft"
+    ],
+    "link": "Stellenangebote der Fondation ansehen"
+  },
+  "footerLine": "Gemeinsam wachsen – in jedem Alter.",
+  "footerCopyright": "Kinderbetreuungszentrum MalleyPrairie · Lausanne",
+  "footerAddress": "Chemin du Martinet 27, 1007 Lausanne",
+  "footerLinks": [
+    "Unterstützen",
+    "Fondation",
+    "Schutzzentrum",
+    "Prävention"
+  ],
+  "linkMore": "Mehr erfahren",
+  "emailLabel": "E-Mail an die Leitung",
+  "closeMenu": "Menü schliessen"
+}

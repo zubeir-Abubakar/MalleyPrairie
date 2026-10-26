@@ -1,0 +1,411 @@
+{
+  "localeName": "Italiano",
+  "brandDescriptor": "Centro per l’infanzia",
+  "switchLabel": "Scegli la lingua",
+  "skip": "Vai al contenuto principale",
+  "navLabel": "Navigazione principale",
+  "nav": [
+    "Il centro",
+    "I nostri nidi",
+    "Info pratiche"
+  ],
+  "contact": "Contattaci",
+  "heroEyebrow": "Centro per l’infanzia · Losanna",
+  "heroTitle": "Crescere, scoprire e fiorire insieme.",
+  "heroLead": "Un’accoglienza diurna attenta e premurosa per bambini da 0 a 6 anni, nel cuore del quartiere di Malley.",
+  "heroCta": "Scopri i nostri nidi",
+  "heroSecondary": "Come iscriversi",
+  "heroNote": "Accoglienza privata sovvenzionata da RéseauL · per famiglie residenti a Losanna.",
+  "artCaption": "Ogni giorno, un po’ più di spazio per crescere.",
+  "facts": [
+    [
+      "0–6",
+      "anni · prima infanzia e scolaretti"
+    ],
+    [
+      "115",
+      "posti a tempo pieno"
+    ],
+    [
+      "6:30–18:15",
+      "dal lunedì al venerdì"
+    ]
+  ],
+  "admission": {
+    "label": "I prossimi passi",
+    "title": "Si comincia dalla lista d’attesa centralizzata.",
+    "intro": "Le richieste passano dall’Ufficio informazioni per i genitori (BIP) della Città di Losanna. La domanda viene inserita nella Lista d’attesa centralizzata (LAC), consultabile dagli asili nido del quartiere.",
+    "asideTitle": "Prima di iscriversi",
+    "aside": "Il centro accoglie bambini residenti nel Comune di Losanna, con priorità alle famiglie di Losanna sud e del quartiere di Malley.",
+    "asideLink": "Informazioni del BIP",
+    "steps": [
+      [
+        "Presentare la domanda",
+        "Compila il modulo prescolare o parascolare e invia l’iscrizione al BIP."
+      ],
+      [
+        "La domanda è condivisa",
+        "Gli asili nido del quartiere possono consultare l’iscrizione nella lista centralizzata della Città di Losanna."
+      ],
+      [
+        "La direzione ti contatta",
+        "Quando si libera un posto adatto all’età, agli orari e alle esigenze della famiglia, la direzione ti contatterà."
+      ],
+      [
+        "Aggiornare ogni 6 mesi",
+        "Aggiorna l’iscrizione via e-mail, per posta o presso il BIP, Place Chauderon 9, Losanna."
+      ]
+    ],
+    "formLinks": [
+      "Iscrizione prescolare",
+      "Iscrizione parascolare · 1P–2P"
+    ],
+    "listLink": "Lista d’attesa"
+  },
+  "care": {
+    "label": "Quattro luoghi di accoglienza",
+    "title": "Un luogo per ogni fase della crescita.",
+    "intro": "115 posti a tempo pieno, distribuiti in quattro asili nido del quartiere. Team qualificati accompagnano i bambini rispettandone bisogni, benessere e dignità.",
+    "centers": [
+      {
+        "name": "L’Attique",
+        "age": "Da 2 a 24 mesi",
+        "places": "25 posti",
+        "detail": "Un nido luminoso e climatizzato con accesso a due terrazze attrezzate e a un grande giardino protetto. Il parco della Vallée de la Jeunesse è vicino.",
+        "groups": [
+          "Barbotteurs · 0–1 anno · 10 posti",
+          "Piccolinos · 1–2 anni · 15 posti"
+        ],
+        "address": "Chemin de la Prairie 36, 1007 Losanna",
+        "phone": "021 620 76 05",
+        "lead": "Carine Baud-Sellie",
+        "email": "cba@malleyprairie.ch",
+        "rules": "attiqueRules"
+      },
+      {
+        "name": "Le Martinet",
+        "age": "Dai 2 anni all’ingresso a scuola",
+        "places": "44 posti",
+        "detail": "Locali rinnovati al piano terra, pensati per il movimento, l’agilità e la motricità. Ogni settore dispone di una terrazza coperta e accesso diretto al giardino e all’area giochi.",
+        "groups": [
+          "Globe-Trotteurs · dai 2 ai 3 anni",
+          "L’Oasis · dai 2 anni e mezzo alla 1P"
+        ],
+        "address": "Globe-Trotteurs · Chemin du Martinet 27, 1007 Losanna",
+        "phone": "021 620 08 95",
+        "lead": "Cécile Goumaz · Globe-Trotteurs",
+        "email": "Cecile.goumaz@malleyprairie.ch",
+        "secondAddress": "L’Oasis · Chemin du Martinet 25, 1007 Losanna",
+        "secondPhone": "021 625 76 00",
+        "secondLead": "Cécile Goumaz · Oasis",
+        "rules": "martinetRules"
+      },
+      {
+        "name": "La Mezzanine",
+        "age": "Scolari in 1P e 2P",
+        "places": "36 posti",
+        "detail": "I bambini sono accompagnati tra scuola e nido, pranzano sul posto e dispongono di spazi per giocare e riposarsi. Scuole servite: Malley e Provence.",
+        "groups": [
+          "Accoglienza negli orari scolastici",
+          "Vicino al parco della Vallée de la Jeunesse"
+        ],
+        "address": "Chemin de la Prairie 52, 1007 Losanna",
+        "phone": "021 625 04 20",
+        "lead": "Sandra Richkin",
+        "email": "sri@malleyprairie.ch",
+        "rules": "mezzanineRules"
+      },
+      {
+        "name": "La Prairie",
+        "age": "Da 0 a 6 anni · accoglienza interna",
+        "places": "10 posti",
+        "detail": "Un settore separato offre accoglienza d’urgenza ai bambini ospitati con la madre al Centro MalleyPrairie dopo episodi di violenza domestica o familiare. L’orientamento è svolto dagli operatori sociali del Centro. I posti sono riservati esclusivamente alle famiglie ospitate.",
+        "groups": [
+          "Ambiente sicuro e punti di riferimento stabili",
+          "Accoglienza legata alla durata del soggiorno"
+        ],
+        "address": "Per informazioni sull’accoglienza interna, contatta la direzione.",
+        "phone": "",
+        "lead": "Valérie P. · vice-direttrice",
+        "email": "garderies@malleyprairie.ch",
+        "goals": [
+          "Accogliere in un ambiente sicuro",
+          "Offrire riferimenti stabili e sicurezza affettiva",
+          "Ritrovare fiducia in sé e negli adulti",
+          "Sostenere e valorizzare le competenze delle madri",
+          "Proporre strumenti educativi concreti"
+        ],
+        "rules": ""
+      }
+    ],
+    "note": "Direttrice: Ana Lattion. Per informazioni sui posti disponibili o sui tirocini nei settori aperti al pubblico, contatta la direzione."
+  },
+  "approach": {
+    "label": "Il nostro approccio",
+    "title": "La benevolenza è al centro del nostro impegno.",
+    "quote": "«Non basta aprire la porta: bisogna potersi incontrare e saper costruire vere relazioni educative.»",
+    "attribution": "Laurence Rameau, L’accueil en crèche, 2011",
+    "intro": "Sosteniamo il benessere e l’autostima di ogni bambino. La vita al nido favorisce la socializzazione e permette ai genitori di proseguire con fiducia il proprio ruolo educativo.",
+    "values": [
+      "Rispetto di sé e degli altri",
+      "Ascolto e condivisione",
+      "Sicurezza, benessere e fiducia",
+      "Autonomia, scoperta e piacere",
+      "Apertura mentale"
+    ],
+    "activityTitle": "Il gioco apre nuovi orizzonti.",
+    "activity": "Nel gruppo, i bambini sviluppano competenze relazionali, sociali e cognitive. Giocando scoprono, esplorano, imitano ed esprimono la propria creatività. Le attività guidate e libere sono adattate all’età, ai gusti e agli interessi di ciascuno; sostengono lo sviluppo fisico, psichico, affettivo e sociale, la sicurezza e l’autostima.",
+    "movement": "Il centro è certificato Youp’là bouge e promuove il movimento e la salute dei bambini. Passeggiate e uscite in minibus – nel bosco, ai parchi giochi, sulla neve, in campagna, al lago, a teatro, nei musei e alle mostre – stimolano la curiosità."
+  },
+  "practical": {
+    "label": "Organizzarsi bene",
+    "title": "Le informazioni per la quotidianità.",
+    "intro": "Indicazioni utili per le famiglie, tutte in un unico posto.",
+    "hoursTitle": "Accogliamo i bambini",
+    "hours": "6:30 — 18:15",
+    "hoursSub": "Dal lunedì al venerdì · 11 mesi all’anno",
+    "items": [
+      [
+        "Richiedere un posto",
+        "Tutte le richieste di posto devono essere inviate alla direzione: garderies@malleyprairie.ch."
+      ],
+      [
+        "Frequenza",
+        "Per favorire l’inserimento nel gruppo, la frequenza minima è di 3 mezze giornate alla settimana. Per i genitori senza attività professionale è possibile un’accoglienza fino al 60%, secondo i posti disponibili."
+      ],
+      [
+        "Chiusure annuali",
+        "Il centro chiude per 5 settimane: 3 in estate (le ultime due di luglio e la prima di agosto) e 2 in inverno (tra Natale e Capodanno). Consulta il calendario 2026–2027 per le date esatte."
+      ],
+      [
+        "Pasti e regimi alimentari",
+        "I pasti considerano equilibrio alimentare, convivialità e vita collettiva. Sono accettati regimi senza carne di maiale, senza carne o prescritti per motivi medici; al momento del contratto è previsto un colloquio con la direzione. Per i regimi medici è necessario un certificato."
+      ]
+    ],
+    "closuresLink": "Chiusure 2026–2027",
+    "menusLink": "Consulta i menu della settimana",
+    "shortcuts": [
+      "Tariffe",
+      "Équipe",
+      "Documenti",
+      "Domande"
+    ]
+  },
+  "fees": {
+    "label": "Tariffe",
+    "title": "Tariffe sovvenzionate.",
+    "intro": "Partner di RéseauL, il centro applica le tariffe sovvenzionate definite dal Servizio per la prima infanzia (SPE). La stima dipende dal reddito e dagli orari di frequenza del bambino.",
+    "items": [
+      [
+        "Tassa d’iscrizione",
+        "CHF 50 per il primo contratto di ogni bambino del nucleo familiare. Nessuna tassa in caso di trasferimento da un altro nido Réseau-L."
+      ],
+      [
+        "Deduzione per figli a carico",
+        "CHF 100 per ogni figlio a carico fino a 18 anni. Non si considera il reddito dei figli in apprendistato."
+      ],
+      [
+        "Sconto per fratelli",
+        "30% per il primo e il secondo bambino inserito; riduzione del 50% per il figlio maggiore o i maggiori dal terzo inserimento, quando più fratelli frequentano una struttura Réseau-L nello stesso mese."
+      ],
+      [
+        "Scolari de La Mezzanine",
+        "È prevista una deduzione del 20% per gli scolari che frequentano La Mezzanine."
+      ],
+      [
+        "Assenze e malattie",
+        "Le assenze annunciate e giustificate per una settimana intera (5 giorni lavorativi consecutivi, malattia o vacanze fuori dai periodi di chiusura) sono fatturate al 10% della tassa forfettaria, fino a 3 settimane per anno completo. L’eventuale credito è dedotto a dicembre o nell’ultimo mese; il credito inutilizzato scade il 31 dicembre. Si trasferisce a un altro nido Réseau-L se non c’è interruzione tra i contratti."
+      ],
+      [
+        "Chiusure e vacanze",
+        "Nessuna retta è dovuta durante le 5 settimane di chiusura annuale. Le deduzioni si applicano nei mesi interessati: di norma 1 settimana a gennaio, 2 a luglio, 1 ad agosto e 1 a dicembre. Chiusure eccezionali possono essere annunciate 2 mesi prima."
+      ]
+    ]
+  },
+  "staff": {
+    "label": "Il team",
+    "title": "Un lavoro di squadra, ogni giorno.",
+    "intro": "Un’équipe multidisciplinare gestisce i settori, accompagna i bambini e collabora con le famiglie.",
+    "roles": [
+      [
+        "Direzione generale",
+        "Garantisce il funzionamento nel rispetto delle norme; gestisce aspetti pedagogici, finanziari e amministrativi; pianifica i posti e i contratti, coordina la continuità educativa e assume personale qualificato."
+      ],
+      [
+        "Vice-direttori e vice-direttrici",
+        "Una persona per settore: gestisce l’attività pedagogica e amministrativa sul posto, sostiene équipe e bambini, collabora con la direzione generale ed è disponibile per i genitori."
+      ],
+      [
+        "Servizi generali",
+        "Gestiscono i conti, preparano i budget, calcolano il tasso di occupazione e si occupano dell’amministrazione del personale."
+      ],
+      [
+        "Équipe educativa",
+        "Accoglie i bambini nei gruppi, risponde alle esigenze individuali nel contesto collettivo e collabora con famiglie e operatori esterni."
+      ],
+      [
+        "Responsabili della formazione",
+        "Pianificano i tirocini, collaborano con le scuole riconosciute, assumono apprendisti e stagisti e ne seguono la formazione."
+      ],
+      [
+        "Équipe amministrativa",
+        "Accoglie i visitatori, gestisce la corrispondenza, risponde alle richieste e sostiene direzione, settori, famiglie e partner."
+      ],
+      [
+        "Personale di casa",
+        "Pulisce secondo le norme igieniche, cura locali e attrezzature, prepara i pasti e collabora con le équipe educative."
+      ],
+      [
+        "Cuoco/a",
+        "Prepara pasti sani ed equilibrati."
+      ]
+    ]
+  },
+  "documents": {
+    "label": "Documenti utili",
+    "title": "Tutto a portata di mano.",
+    "intro": "Moduli e documenti forniti dal centro e dai suoi partner.",
+    "links": [
+      [
+        "Iscrizione · prescolare",
+        "registrationPreschool"
+      ],
+      [
+        "Iscrizione · parascolare 1P–2P",
+        "registrationSchool"
+      ],
+      [
+        "Guida genitori · L’Attique",
+        "attiqueRules"
+      ],
+      [
+        "Guida genitori · Le Martinet",
+        "martinetRules"
+      ],
+      [
+        "Guida genitori · La Mezzanine",
+        "mezzanineRules"
+      ],
+      [
+        "Chiusure · 2026–2027",
+        "closures"
+      ],
+      [
+        "Disdetta del contratto",
+        "cancellation"
+      ],
+      [
+        "Autorizzazione · Attique",
+        "attiqueTravel"
+      ],
+      [
+        "Autorizzazione · Martinet",
+        "martinetTravel"
+      ],
+      [
+        "Autorizzazione · Mezzanine",
+        "mezzanineTravel"
+      ]
+    ],
+    "delivery": "La lettera di disdetta va consegnata alla direzione. Le autorizzazioni per gli spostamenti vanno consegnate direttamente all’asilo nido interessato."
+  },
+  "faq": {
+    "label": "Domande frequenti",
+    "title": "Forse ti stai chiedendo...",
+    "items": [
+      [
+        "Lavoro vicino al centro. Posso iscrivere mio figlio?",
+        "Il luogo di lavoro non è un criterio di ammissione. Il centro accoglie solo bambini residenti nel Comune di Losanna."
+      ],
+      [
+        "Non abito a Losanna. Posso ottenere un posto?",
+        "No. Il centro è sovvenzionato dalla Città di Losanna e accoglie famiglie residenti nel Comune."
+      ],
+      [
+        "Mio figlio ha esigenze alimentari particolari.",
+        "In genere i bambini condividono lo stesso menu. Sono accettate diete prescritte per motivi medici (con certificato) e senza carne di maiale, se compatibili con la vita collettiva. È proposto un menu sostitutivo di pari valore nutrizionale. Negli altri casi i genitori integrano l’alimentazione a casa. Per motivi igienici e di conservazione, gli alimenti portati da casa sono ammessi solo per compleanni e altre feste."
+      ],
+      [
+        "Mio figlio segue una dieta vegetariana.",
+        "La dieta vegetariana non viene applicata rigorosamente al nido perché potrebbe causare carenze proteiche. Parla della situazione con la direzione."
+      ],
+      [
+        "Cosa fare se mio figlio è malato?",
+        "Un bambino malato o infortunato non può essere accolto se non riesce a seguire il ritmo del centro, in particolare con una temperatura superiore a 38 °C. Dopo gli antibiotici, il periodo è di 24–48 ore secondo il parere medico. Avvisa al più presto il gruppo e segnala le malattie contagiose. I genitori devono organizzare un’altra soluzione. La Croce Rossa vodese offre assistenza a domicilio per bambini malati: 021 340 00 80 / 81."
+      ],
+      [
+        "Passare in ufficio permette di ottenere un posto prima?",
+        "No. La direzione rispetta la data d’iscrizione in lista d’attesa. Il posto deve inoltre corrispondere agli orari, all’età e ai criteri di ammissione, tra cui la residenza nel quartiere e l’attività professionale o gli studi."
+      ]
+    ]
+  },
+  "contactSection": {
+    "label": "Parliamone",
+    "title": "Hai una domanda? Scrivici.",
+    "intro": "Per informazioni sui posti disponibili, contatta la direzione. Indica i tuoi recapiti e le informazioni utili su tuo figlio per permetterci di risponderti.",
+    "addressLabel": "Indirizzo della direzione",
+    "address": "Chemin du Martinet 27, piano terra, 1007 Losanna",
+    "formTitle": "Il tuo messaggio",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "E-mail",
+    "phone": "Telefono",
+    "birthDate": "Data di nascita del bambino",
+    "day": "Giorno",
+    "month": "Mese",
+    "year": "Anno",
+    "level": "Accoglienza desiderata",
+    "levelOptions": [
+      "Prescolare",
+      "Parascolare · 1P–2P",
+      "La Prairie · accoglienza interna",
+      "Altro / domanda generale"
+    ],
+    "subject": "Oggetto",
+    "message": "Il tuo messaggio",
+    "submit": "Invia il messaggio",
+    "requiredNote": "I campi contrassegnati con * sono obbligatori. I dati inviati sono trasmessi a Formspree per essere inoltrati all’organizzazione. Indica solo le informazioni necessarie per ricevere una risposta.",
+    "sending": "Invio in corso…",
+    "sendSuccess": "Grazie, il messaggio è stato inviato alla direzione, che ti risponderà appena possibile.",
+    "sendError": "Non è stato possibile inviare il messaggio. Riprova o scrivi a garderies@malleyprairie.ch.",
+    "errorName": "Inserisci il tuo nome.",
+    "errorEmail": "Inserisci un indirizzo e-mail valido.",
+    "months": [
+      "Mese",
+      "Gennaio",
+      "Febbraio",
+      "Marzo",
+      "Aprile",
+      "Maggio",
+      "Giugno",
+      "Luglio",
+      "Agosto",
+      "Settembre",
+      "Ottobre",
+      "Novembre",
+      "Dicembre"
+    ]
+  },
+  "jobs": {
+    "label": "Unisciti al team",
+    "title": "Lavora con noi.",
+    "intro": "Le offerte di lavoro e le candidature sono gestite dalla Fondazione MalleyPrairie.",
+    "roles": [
+      "Personale educativo sostitutivo",
+      "Responsabile dei servizi interni"
+    ],
+    "link": "Vedi le offerte della Fondazione"
+  },
+  "footerLine": "Crescere insieme, a ogni età.",
+  "footerCopyright": "Centro per l’infanzia MalleyPrairie · Losanna",
+  "footerAddress": "Chemin du Martinet 27, 1007 Losanna",
+  "footerLinks": [
+    "Sostienici",
+    "Fondazione",
+    "Centro d’accoglienza",
+    "Prevenzione"
+  ],
+  "linkMore": "Scopri di più",
+  "emailLabel": "Scrivi alla direzione",
+  "closeMenu": "Chiudi il menu"
+}
